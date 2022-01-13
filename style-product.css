@@ -1,0 +1,171 @@
+body {
+    background-color: white;
+}
+.content-prod {
+    padding-top: 80px;
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(233, 231, 232, 1);
+}
+
+.content-prod h2 {
+    font-size: 55px;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    max-width: 1140px;
+    padding-bottom: 20px;
+    color: rgba(38, 78, 44, 1);
+}
+
+.content-prod-simple,
+.content-prod-protected,
+.content-prod-noise_protection,
+.content-prod-energy_efficient,
+.content-prod-for_kids,
+.content-prod-for_sun,
+.content-prod-balcony-sliding,
+.content-prod-balcony-swing,
+.doors-exit,
+.doors-balcony {
+    padding: 0 0 40px 0;
+    width: 100%;
+    max-width: 1140px;
+    border-top: 5px solid black;
+}
+
+.content-prod-simple h3,
+.content-prod-noise_protection h3,
+.content-prod-energy_efficient h3,
+.content-prod-for_kids h3,
+.content-prod-for_sun h3,
+.content-prod-protected h3,
+.content-prod-balcony-sliding h3,
+.content-prod-balcony-swing h3,
+.doors-exit h3,
+.doors-balcony h3{
+    max-width: 700px;
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 20px;
+    color: rgba(38, 78, 44, 1);
+}
+
+.content-prod-simple-text,
+.content-prod-protected-text,
+.content-prod-noise_protection-text,
+.content-prod-energy_efficient-text,
+.content-prod-for_kids-text,
+.content-prod-for_sun-text,
+.content-prod-balcony-sliding-text,
+.content-prod-balcony-swing-text,
+.doors-exit-text,
+.doors-balcony-text {
+    max-width: 700px;
+    width: 100%;
+    font-size: 24px;
+    float: left;
+    padding: 0 20px 0 20px;
+    color: rgba(38, 78, 44, 1);
+}
+
+.content-prod-simple p,
+.content-prod-noise_protection p,
+.content-prod-energy_efficient p,
+.content-prod-for_kids p,
+.content-prod-for_sun p,
+.content-prod-protected p,
+.content-prod-balcony-sliding p,
+.content-prod-balcony-swing p,
+.doors-exit p,
+.doors-balcony p{
+    text-indent: 1.5em;
+    max-width: 700px;
+    width: 100%;
+    padding-bottom: 20px;
+    color: rgba(38, 78, 44, 1);
+}
+
+.content-prod-simple ul,
+.content-prod-protected ul,
+.content-prod-noise_protection ul,
+.content-prod-energy_efficient ul,
+.content-prod-for_kids ul,
+.content-prod-for_sun ul,
+.content-prod-balcony-sliding ul,
+.content-prod-balcony-swing ul,
+.doors-exit ul,
+.doors-balcony ul {
+    max-width: 700px;
+    width: 100%;
+}
+
+.content-prod-simple-prof,
+.content-prod-protected-prof,
+.content-prod-noise_protection-prof,
+.content-prod-energy_efficient-prof,
+.content-prod-for_kids-prof,
+.content-prod-for_sun-prof,
+.content-prod-balcony-sliding-prof,
+.content-prod-balcony-swing-prof,
+.doors-exit-prof,
+.doors-balcony-prof {
+    max-width: 300px;
+    width: 100%;
+    font-size: 24px;
+    float: right;
+}
+
+.content-prod .content-prod-simple-prof img,
+.content-prod-protected-prof img,
+.content-prod-noise_protection-prof img,
+.content-prod-energy_efficient-prof img,
+.content-prod-for_kids-prof img,
+.content-prod-for_sun-prof img,
+.content-prod-balcony-sliding-prof img,
+.content-prod-balcony-swing-prof img {
+    max-width: 300px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.doors-exit-prof img,
+.doors-balcony-prof img {
+    max-width: 300px;
+    width: 100%;
+    padding-top: 20px;
+    margin: 0;
+}
+
+.content-prod .content-prod-simple-prof p,
+.content-prod-protected-prof p,
+.content-prod-noise_protection-prof p,
+.content-prod-energy_efficient-prof p,
+.content-prod-for_kids-prof p,
+.content-prod-for_sun-prof p,
+.content-prod-balcony-sliding-prof p,
+.content-prod-balcony-swing-prof p,
+.doors-exit-prof p,
+.doors-balcony-prof p {
+    max-width: 300px;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(248, 147, 69, 1);
+    border-radius: 50px;
+    border: 1px solid black;
+    color: rgba(38, 78, 44, 1);
+    padding: 20px 20px 20px 0px;
+}
+
+.footer {
+
+}
+
+ul {
+    list-style-image:url(jpg/%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0.png);
+}

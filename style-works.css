@@ -1,0 +1,103 @@
+.content-works-clients {
+    padding-top: 80px;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.works {}
+
+.works-h,
+.clients-h {
+    font-size: 55px;
+    text-align: center;
+    margin: 40px 0px 40px 0px;
+    font-weight: bold;
+    color: rgba(38, 78, 44, 1);
+}
+
+.works-windows {}
+
+.works-windows-h,
+.works-balcony-h,
+.works-doors-h {
+    font-size: 55px;
+    text-align: center;
+    margin: 0px 0px 40px 0px;
+    color: rgba(38, 78, 44, 1);
+}
+
+.works-windows-imgs-1,
+.works-windows-imgs-2,
+.works-windows-imgs-3 {
+    max-width: 1140px;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.works-windows-imgs-1 img,
+.works-windows-imgs-2 img,
+.works-windows-imgs-3 img {
+    max-width: 100%;
+    width: 100%;
+}
+
+.works-windows-link,
+.works-balcony-link,
+.works-doors-link {
+    max-width: 400px;
+    width: 100%;
+    margin: 20px auto;
+}
+
+.works-windows-link a,
+.works-balcony-link a,
+.works-doors-link a {}
+
+.works-windows-link img,
+.works-balcony-link img,
+.works-doors-link img {
+    max-width: 400px;
+    width: 100%;
+}
+
+.works-balcony {}
+
+.works-balcony-imgs {
+    max-width: 1140px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.works-doors {}
+
+.works-doors-imgs {
+    max-width: 1140px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.clients {
+    padding-bottom: 40px;
+}
+
+.clients-text {
+    font-size: 34px;
+    margin: 0 20px 20px 20px;
+    color: rgba(38, 78, 44, 1);
+}
+
+.clients-list {
+    font-size: 34px;
+    color: rgba(38, 78, 44, 1);
+}
+
+ul {
+    list-style-image:url(jpg/%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0.png);
+}
